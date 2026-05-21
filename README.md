@@ -1,5 +1,3 @@
-# Kotak-Neo-
-
 # Kotak Neo Resources & Trading Insights
 
 Welcome to the Kotak Neo resources repository. This repository contains useful information, references, educational content, and trading-related resources focused on the Kotak Neo trading platform.
