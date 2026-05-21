@@ -31,7 +31,7 @@ The platform provides fast order execution, real-time market tracking, and advan
 ## Useful Links
 
 - Website: https://www.kotakneo.com/
-- Trading Platform: https://diy.kotakneo.com/
+- Trading Platform: https://www.kotakneo.com/platform/kotak-neo/
 - Market News: https://www.kotakneo.com/news/
 
 ## Purpose of This Repository
